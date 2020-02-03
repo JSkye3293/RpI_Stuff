@@ -139,17 +139,3 @@ FENCE_GATE          107
 GLOWING_OBSIDIAN    246
 NETHER_REACTOR_CORE 247
 """
-
-    © 2020 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Help
-
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
