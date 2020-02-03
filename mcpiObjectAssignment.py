@@ -34,7 +34,7 @@ from mcpi import block
 from time import sleep
 
 def init():
-    ipString = "192.168.1.73"
+    ipString = "192.168.7.114"
     #mc = Minecraft.create("127.0.0.1", 4711)
     mc = Minecraft.create(ipString, 4711)
     mc.setting("world_immutable",True)
